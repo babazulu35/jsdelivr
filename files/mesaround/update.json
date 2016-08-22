@@ -3,6 +3,6 @@
   "name": "brewww.mesaround",
   "repo": "babazulu35/mesaround",
   "files": {
-    "include": ["mesaround.js"]
+    "include": ["mesaround.js","mesaround.min.js"]
   }
 }
